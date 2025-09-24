@@ -1,4 +1,7 @@
 # ps-cyberseg
+
+# Editado por RENE VILLARREAL TORRES el 23/09/2025
+
 ¿Qué contiene?
 El proyecto contiene dos módulos principales de PowerShell:
 
