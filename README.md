@@ -2,9 +2,11 @@
 
 # Editado por RENE VILLARREAL TORRES el 06/10/2025
 Verificar_correos
+
 El archivo apikey.txt debe crearse, el contenido que debe tener y no debe compartirse públicamente.
 
 MODULES
+
 ¿Qué contiene?
 El proyecto contiene dos módulos principales de PowerShell:
 
