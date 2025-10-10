@@ -1,6 +1,21 @@
 # ps-cyberseg
 
-# Editado por RENE VILLARREAL TORRES el 06/10/2025
+# Editado por RENE VILLARREAL TORRES el 10/10/2025
+# Verificador de correos comprometidos -- Have I Been Pwned
+
+Este script permite verificar si una cuenta de correo electrónico ha sido comprometida en brechas de seguridad conocidas, utilizando la API oficial de Have I Been Pwned.
+
+## Requisitos
+
+- Python 3.8+
+- API key válida de Have I Been Pwned
+- Conexión a internet
+
+## Instalación de modulos
+
+```bash
+pip install -r requirements.txt
+
 Verificar_correos
 
 El archivo apikey.txt debe crearse, el contenido que debe tener y no debe compartirse públicamente.
